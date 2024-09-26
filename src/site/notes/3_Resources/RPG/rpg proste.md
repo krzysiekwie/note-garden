@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/rpg/rpg-proste/"}
 ---
 
-
+[[digital garden intro\|digital garden intro]]
 ## Tales from the Loop
 
 Opowieści z Pętli (Tales from the Loop - Amazon Prime TV)
