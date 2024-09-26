@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/technical-writing/vs-code-for-writing/"}
 ---
 
-
+[[digital garden intro\|digital garden intro]]
 ## Extensions
 
 [[3_Resources/Technical Writing/linter for prose - vale\|linter for prose - vale]]
