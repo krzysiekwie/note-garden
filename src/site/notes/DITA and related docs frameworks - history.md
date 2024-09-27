@@ -136,7 +136,7 @@ In recent years, several trends have emerged in the field of documentation frame
 
 ### Lightweight and Agile Approaches
 
-- **2020s**: There's a growing demand for lightweight and agile documentation frameworks that prioritize ease of use, rapid authoring, and seamless integration with modern development workflows. Tools like **Lightweight DITA** and **Markdown** continue to gain popularity for their simplicity and adaptability.
+- **2020s**: There's a growing demand for lightweight and agile documentation frameworks that prioritize ease of use, rapid authoring, and seamless integration with modern development workflows. Tools like [Lightweight DITA](https://docs.oasis-open.org/dita/LwDITA/v1.0/cnprd01/LwDITA-v1.0-cnprd01.html) and **Markdown** continue to gain popularity for their simplicity and adaptability.
 
 ### AI and Automation
 
